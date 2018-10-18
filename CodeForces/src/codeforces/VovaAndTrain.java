@@ -10,6 +10,8 @@ import java.util.Scanner;
 /**
  *
  * @author nazir
+ * 
+ * problem link http://codeforces.com/contest/1066/problem/A 
  */
 public class VovaAndTrain {
 
