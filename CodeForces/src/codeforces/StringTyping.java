@@ -20,7 +20,7 @@ public class StringTyping {
                     index--;
                 }
             }
-            operations = index + 1 + lengthOfString - (index * 2);
+            operations =  lengthOfString - index +1;
         }
 
 
