@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99f0da7c-2d4d-4bf2-8dc4-4df486209467" name="Default" comment="954/problem/B">
+    <list default="true" id="99f0da7c-2d4d-4bf2-8dc4-4df486209467" name="Default" comment="new problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/" />
@@ -50,10 +50,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArraywithOddSum.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ArraywithOddSum.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/codeforces/ArraywithOddSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
+            <state relative-caret-position="158">
               <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
             </state>
           </provider>
@@ -89,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KthNotDivisibleByN.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KthNotDivisibleByN.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codeforces/KthNotDivisibleByN.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -339,7 +339,7 @@
       <workItem from="1580924983786" duration="9441000" />
       <workItem from="1582487131051" duration="479000" />
       <workItem from="1582548817665" duration="5980000" />
-      <workItem from="1589027879605" duration="20047000" />
+      <workItem from="1589027879605" duration="20464000" />
     </task>
     <task id="LOCAL-00001" summary="new solution">
       <created>1580664476401</created>
@@ -355,14 +355,22 @@
       <option name="project" value="LOCAL" />
       <updated>1580924854989</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="new problems">
+      <created>1589201693949</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589201693949</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49035000" />
+    <option name="totallyTimeSpent" value="49452000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -403,7 +411,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new solution" />
     <MESSAGE value="954/problem/B" />
-    <option name="LAST_COMMIT_MESSAGE" value="954/problem/B" />
+    <MESSAGE value="new problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="new problems" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -762,13 +771,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces/ArraywithOddSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codeforces/AddOddOrSubtractEven.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -797,6 +799,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/ArraywithOddSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
         </state>
       </provider>
     </entry>
