@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99f0da7c-2d4d-4bf2-8dc4-4df486209467" name="Default" comment="954/problem/B">
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/CodeForces/codeforces/MinimumSwaps2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/codeforces/MinimumSwaps2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces/codeforces/StringTyping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeForces/codeforces/StringTyping.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,24 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CodeForces.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codeforces/CodeForces.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="D2ArrayDS.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codeforces/D2ArrayDS.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CheapTravel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codeforces/CheapTravel.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -51,8 +26,8 @@
       <file leaf-file-name="StringTyping.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codeforces/StringTyping.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="465">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -60,44 +35,65 @@
       <file leaf-file-name="NewYearChaos.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codeforces/NewYearChaos.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-116">
+            <state relative-caret-position="75">
               <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumSwaps2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinimumSwaps2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/codeforces/MinimumSwaps2.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArraywithOddSum.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/ArraywithOddSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddOddOrSubtractEven.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/AddOddOrSubtractEven.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountingValleys.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codeforces/CountingValleys.java">
+      <file leaf-file-name="SumOfRoundNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/SumOfRoundNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="361">
+              <caret line="42" column="59" lean-forward="true" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EvenOdds.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codeforces/EvenOdds.java">
+      <file leaf-file-name="SameParitySummands.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/SameParitySummands.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+            <state relative-caret-position="180">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Heaters.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/codeforces/Heaters.java">
+      <file leaf-file-name="KthNotDivisibleByN.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/codeforces/KthNotDivisibleByN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="180">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -129,6 +125,11 @@
         <option value="$PROJECT_DIR$/src/codeforces/CheapTravel.java" />
         <option value="$PROJECT_DIR$/src/codeforces/StringTyping.java" />
         <option value="$PROJECT_DIR$/src/codeforces/MinimumSwaps2.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/ArraywithOddSum.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/AddOddOrSubtractEven.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/SumOfRoundNumbers.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/SameParitySummands.java" />
+        <option value="$PROJECT_DIR$/src/codeforces/KthNotDivisibleByN.java" />
       </list>
     </option>
   </component>
@@ -141,7 +142,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="826" />
@@ -152,9 +153,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,6 +175,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,9 +205,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinimumSwaps2">
-    <configuration name="CheapTravel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.CheapTravel" />
+  <component name="RunManager" selected="Application.KthNotDivisibleByN">
+    <configuration name="AddOddOrSubtractEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.AddOddOrSubtractEven" />
       <module name="CodeForces" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -216,8 +217,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="EvenOdds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.EvenOdds" />
+    <configuration name="KthNotDivisibleByN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.KthNotDivisibleByN" />
       <module name="CodeForces" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -238,8 +239,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringTyping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="codeforces.StringTyping" />
+    <configuration name="SameParitySummands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.SameParitySummands" />
+      <module name="CodeForces" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="codeforces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SumOfRoundNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="codeforces.SumOfRoundNumbers" />
       <module name="CodeForces" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -291,17 +303,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.EvenOdds" />
-      <item itemvalue="Application.CheapTravel" />
-      <item itemvalue="Application.StringTyping" />
       <item itemvalue="Application.MinimumSwaps2" />
+      <item itemvalue="Application.AddOddOrSubtractEven" />
+      <item itemvalue="Application.SumOfRoundNumbers" />
+      <item itemvalue="Application.SameParitySummands" />
+      <item itemvalue="Application.KthNotDivisibleByN" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KthNotDivisibleByN" />
+        <item itemvalue="Application.SameParitySummands" />
+        <item itemvalue="Application.SumOfRoundNumbers" />
+        <item itemvalue="Application.AddOddOrSubtractEven" />
         <item itemvalue="Application.MinimumSwaps2" />
-        <item itemvalue="Application.StringTyping" />
-        <item itemvalue="Application.CheapTravel" />
-        <item itemvalue="Application.EvenOdds" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +336,10 @@
       <workItem from="1578413134761" duration="2716000" />
       <workItem from="1580648956783" duration="5335000" />
       <workItem from="1580921292608" duration="3181000" />
-      <workItem from="1580924983786" duration="4948000" />
+      <workItem from="1580924983786" duration="9441000" />
+      <workItem from="1582487131051" duration="479000" />
+      <workItem from="1582548817665" duration="5980000" />
+      <workItem from="1589027879605" duration="20047000" />
     </task>
     <task id="LOCAL-00001" summary="new solution">
       <created>1580664476401</created>
@@ -342,11 +359,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18036000" />
+    <option name="totallyTimeSpent" value="49035000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="826" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -357,19 +373,19 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5007153" side_tool="true" weight="0.32784638" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.3516129" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.20027435" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.32784638" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24358974" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35591397" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3415638" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -391,11 +407,21 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="12" />
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>k%remainder</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>k/remainder</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>array[i]</expression-string>
         <language-id>JAVA</language-id>
@@ -414,41 +440,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/codeforces/CheapTravel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces/CountingValleys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces/EvenOdds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces/Heaters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/codeforces/JumpingOnTheClouds.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/codeforces/StringTyping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -752,22 +743,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codeforces/StringTyping.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="465">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codeforces/NewYearChaos.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
+        <state relative-caret-position="75">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/codeforces/MinimumSwaps2.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/ArraywithOddSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/AddOddOrSubtractEven.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/SumOfRoundNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="42" column="59" lean-forward="true" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/SameParitySummands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/codeforces/KthNotDivisibleByN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
         </state>
       </provider>
     </entry>
